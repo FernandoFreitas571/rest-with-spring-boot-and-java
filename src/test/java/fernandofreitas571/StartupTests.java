@@ -1,10 +1,10 @@
-package fernandofreitas571.rest_with_spring_boot_and_java;
+package fernandofreitas571;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestWithSpringBootAndJavaApplicationTests {
+class StartupTests {
 
 	@Test
 	void contextLoads() {

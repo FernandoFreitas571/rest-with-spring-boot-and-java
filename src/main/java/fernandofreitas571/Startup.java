@@ -1,13 +1,13 @@
-package fernandofreitas571.rest_with_spring_boot_and_java;
+package fernandofreitas571;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestWithSpringBootAndJavaApplication {
+public class Startup {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestWithSpringBootAndJavaApplication.class, args);
+		SpringApplication.run(Startup.class, args);
 	}
 
 }
